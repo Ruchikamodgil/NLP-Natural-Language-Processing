@@ -37,6 +37,8 @@ Bag of Words vectors are easy to interpret. However, TF-IDF usually performs bet
 tf=no. of particular word in sentence / Total number of words in sentence <br>
 idf=no. of sentences / no. of sentences containing particular word <br>
 resultant tfidf = tf * idf
-
-
-
+<br>
+<br>
+## Email Spam Classifier
+<br>
+Model which classifies the message as spam and non spam using Naive Bayes Classifier and using NLP Data Preprocessing to convert the dataset into suitable format.
